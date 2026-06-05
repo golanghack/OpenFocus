@@ -1,0 +1,48 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.so
+
+# Django
+
+db.sqlite3
+media/
+staticfiles/
+
+# Env
+
+.env
+.venv/
+venv/
+
+# IDE
+
+.idea/
+.vscode/
+
+# Migrations cache
+
+*.log
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Pytest
+
+.pytest_cache/
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Mypy
+
+.mypy_cache/
+
+# Ruff
+
+.ruff_cache/
